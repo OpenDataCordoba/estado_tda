@@ -367,7 +367,7 @@
     "longitud": "-71.5833",
     "red": "RFM",
     "acronimo_maximo": "EARULAP01",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "OPERATIVA"
   },
   {
     "id": "168",
@@ -517,7 +517,7 @@
     "longitud": "-59.2986",
     "red": "RFU",
     "acronimo_maximo": "EARBNVR01",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "OPERATIVA"
   },
   {
     "id": "49",
@@ -697,7 +697,7 @@
     "longitud": "-72.348056",
     "red": "UTT",
     "acronimo_maximo": "EARXRTC01",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "305",
