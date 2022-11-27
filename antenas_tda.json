@@ -77,7 +77,7 @@
     "longitud": "-61.115944",
     "red": "UTT",
     "acronimo_maximo": "EAROUTT11",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "240",
@@ -277,7 +277,7 @@
     "longitud": "-71.3438",
     "red": "RFM",
     "acronimo_maximo": "EARUESQ01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "165",
