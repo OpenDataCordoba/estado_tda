@@ -367,7 +367,7 @@
     "longitud": "-71.5833",
     "red": "RFM",
     "acronimo_maximo": "EARULAP01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "168",
@@ -897,7 +897,7 @@
     "longitud": "-69.1638",
     "red": "RFM",
     "acronimo_maximo": "EARMTPG01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "265",
