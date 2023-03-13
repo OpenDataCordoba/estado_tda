@@ -77,7 +77,7 @@
     "longitud": "-61.115944",
     "red": "UTT",
     "acronimo_maximo": "EAROUTT11",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "240",
@@ -317,7 +317,7 @@
     "longitud": "-58.54",
     "red": "RFM",
     "acronimo_maximo": "EAREGCH01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "152",
