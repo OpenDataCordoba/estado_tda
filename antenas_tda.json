@@ -190,6 +190,16 @@
     "estado": "OPERATIVA"
   },
   {
+    "id": "308",
+    "estacion": "Concepción del Uruguay",
+    "provincia": "Entre Ríos",
+    "latitud": "-32.463361",
+    "longitud": "-58.269319",
+    "red": null,
+    "acronimo_maximo": null,
+    "estado": "SIN INFORMACION"
+  },
+  {
     "id": "94",
     "estacion": "Concordia",
     "provincia": "Entre Rios",
@@ -510,6 +520,16 @@
     "estado": "OPERATIVA"
   },
   {
+    "id": "306",
+    "estacion": "Monte Caseros",
+    "provincia": "Corrientes",
+    "latitud": "-30.254969",
+    "longitud": "-57.748259",
+    "red": "RFM",
+    "acronimo_maximo": null,
+    "estado": "OPERATIVA"
+  },
+  {
     "id": "48",
     "estacion": "Navarro",
     "provincia": "Buenos Aires",
@@ -657,7 +677,7 @@
     "longitud": "-64.3868267451547",
     "red": "RFM",
     "acronimo_maximo": "EARXRCT01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "262",
