@@ -197,7 +197,7 @@
     "longitud": "-58.269319",
     "red": null,
     "acronimo_maximo": null,
-    "estado": "SIN INFORMACION"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "94",
@@ -227,7 +227,7 @@
     "longitud": "-64.197",
     "red": "RFM",
     "acronimo_maximo": "EARXCDB03",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "OPERATIVA"
   },
   {
     "id": "21",
@@ -257,7 +257,7 @@
     "longitud": "-58.81255",
     "red": "RFM",
     "acronimo_maximo": "EARWCRR01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "25",
@@ -387,7 +387,7 @@
     "longitud": "-58.2757",
     "red": "RFM",
     "acronimo_maximo": "EARPLGB01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "35",
@@ -520,14 +520,14 @@
     "estado": "OPERATIVA"
   },
   {
-    "id": "306",
+    "id": "309",
     "estacion": "Monte Caseros",
     "provincia": "Corrientes",
     "latitud": "-30.254969",
     "longitud": "-57.748259",
-    "red": "RFM",
+    "red": null,
     "acronimo_maximo": null,
-    "estado": "OPERATIVA"
+    "estado": "SIN INFORMACION"
   },
   {
     "id": "48",
