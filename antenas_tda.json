@@ -237,7 +237,7 @@
     "longitud": "-58.2455",
     "red": "RFU",
     "acronimo_maximo": "EARBCBR01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "23",
@@ -367,7 +367,7 @@
     "longitud": "-63.375822",
     "red": null,
     "acronimo_maximo": "EARXLBY01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "244",
