@@ -597,7 +597,7 @@
     "longitud": "-67.9887",
     "red": "RFM",
     "acronimo_maximo": "EARZTRN01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "56",
@@ -687,7 +687,7 @@
     "longitud": "-69.2317",
     "red": "RFM",
     "acronimo_maximo": "EARZRGG01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "302",
