@@ -127,7 +127,7 @@
     "longitud": "-65.612914",
     "red": "UTT",
     "acronimo_maximo": "EARKCTM01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "117",
@@ -147,7 +147,7 @@
     "longitud": "-60.46583875",
     "red": "RFM",
     "acronimo_maximo": "EARBCHB01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "18",
@@ -157,7 +157,7 @@
     "longitud": "-57.9658",
     "red": "RFU",
     "acronimo_maximo": "EARBCHM01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "19",
@@ -497,7 +497,7 @@
     "longitud": "-57.5304",
     "red": "RFM",
     "acronimo_maximo": "EARBMDP01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "219",
@@ -617,7 +617,7 @@
     "longitud": "-55.8613",
     "red": "RFM",
     "acronimo_maximo": "EARNPSD01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "260",
@@ -897,7 +897,7 @@
     "longitud": "-62.7349",
     "red": "RFM",
     "acronimo_maximo": "EARBTQL01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "206",
