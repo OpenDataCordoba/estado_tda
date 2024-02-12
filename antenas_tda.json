@@ -627,7 +627,7 @@
     "longitud": "-65.8735",
     "red": "RFM",
     "acronimo_maximo": "EARZPDO01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "261",
@@ -937,7 +937,7 @@
     "longitud": "-61.5585",
     "red": "RFM",
     "acronimo_maximo": "EARBVED01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "106",
@@ -957,7 +957,7 @@
     "longitud": "-63.0523",
     "red": "RFM",
     "acronimo_maximo": "EARRVDM01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "76",
