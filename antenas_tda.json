@@ -507,7 +507,7 @@
     "longitud": "-68.9348",
     "red": "RFM",
     "acronimo_maximo": "EARMMDZ01",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "OPERATIVA"
   },
   {
     "id": "300",
@@ -617,7 +617,7 @@
     "longitud": "-55.8613",
     "red": "RFM",
     "acronimo_maximo": "EARNPSD01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "260",
@@ -627,7 +627,7 @@
     "longitud": "-65.8735",
     "red": "RFM",
     "acronimo_maximo": "EARZPDO01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "261",
@@ -747,7 +747,7 @@
     "longitud": "-65.3947",
     "red": "RFM",
     "acronimo_maximo": "EARASLT01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "63",
