@@ -337,7 +337,7 @@
     "longitud": "-56.6752",
     "red": "RFM",
     "acronimo_maximo": "EARWITZ01",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "OPERATIVA"
   },
   {
     "id": "223",
@@ -587,7 +587,7 @@
     "longitud": "-61.88532721",
     "red": "UTT",
     "acronimo_maximo": "EARBPHJ01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "242",
@@ -907,7 +907,7 @@
     "longitud": "-65.3766",
     "red": "RFM",
     "acronimo_maximo": "EARTTCM01",
-    "estado": "OPERATIVA"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "222",
