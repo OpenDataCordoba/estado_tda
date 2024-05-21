@@ -47,7 +47,7 @@
     "longitud": "-58.2302",
     "red": "RFU",
     "acronimo_maximo": "EARBBLC01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "8",
@@ -237,7 +237,7 @@
     "longitud": "-58.2455",
     "red": "RFU",
     "acronimo_maximo": "EARBCBR01",
-    "estado": "TRANSMISIÓN PARCIAL"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "23",
@@ -727,7 +727,7 @@
     "longitud": "-60.426968",
     "red": null,
     "acronimo_maximo": "EARHRSP02",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   },
   {
     "id": "124",
@@ -767,7 +767,7 @@
     "longitud": "-64.9258",
     "red": "RFM",
     "acronimo_maximo": "EARRSAO01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "65",
