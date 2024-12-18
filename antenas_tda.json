@@ -7,7 +7,7 @@
     "longitud": "-62.8431",
     "red": "RFM",
     "acronimo_maximo": "EARGATY01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "2",
@@ -127,7 +127,7 @@
     "longitud": "-65.612914",
     "red": "UTT",
     "acronimo_maximo": "EARKCTM01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "117",
@@ -767,7 +767,7 @@
     "longitud": "-64.9258",
     "red": "RFM",
     "acronimo_maximo": "EARRSAO01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "65",
