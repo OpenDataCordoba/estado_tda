@@ -497,7 +497,7 @@
     "longitud": "-57.5304",
     "red": "RFM",
     "acronimo_maximo": "EARBMDP01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "219",
@@ -677,7 +677,7 @@
     "longitud": "-64.3868267451547",
     "red": "RFM",
     "acronimo_maximo": "EARXRCT01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "262",
@@ -747,7 +747,7 @@
     "longitud": "-65.3947",
     "red": "RFM",
     "acronimo_maximo": "EARASLT01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "63",
@@ -777,7 +777,7 @@
     "longitud": "-56.7453",
     "red": "RFM",
     "acronimo_maximo": "EARBSCT01",
-    "estado": "OPERATIVA"
+    "estado": "FUERA DE SERVICIO"
   },
   {
     "id": "224",
@@ -827,7 +827,7 @@
     "longitud": "-68.266677",
     "red": "RFM",
     "acronimo_maximo": "EAROUTT09",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "TRANSMISIÓN PARCIAL"
   },
   {
     "id": "114",
@@ -1007,6 +1007,6 @@
     "longitud": "-58.5122",
     "red": "RFU",
     "acronimo_maximo": "EARBVMR01",
-    "estado": "FUERA DE SERVICIO"
+    "estado": "OPERATIVA"
   }
 ]
